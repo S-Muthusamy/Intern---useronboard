@@ -1,0 +1,10 @@
+{
+  "name": "useronboard",
+  "version": "1.0.0",
+  "description": "Simple user onboarding website (vanilla JS)",
+  "main": "src/index.js",
+  "scripts": {},
+  "keywords": ["onboarding", "javascript"],
+  "author": "",
+  "license": "MIT"
+}
